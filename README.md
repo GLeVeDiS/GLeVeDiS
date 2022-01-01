@@ -1,7 +1,9 @@
-Greetings my fellow user!
-I am not ready to introduce myself...
+<!--<h3 align="center">
+![image](https://github.com/GLeVeDiS/GLeVeDiS/blob/main/README_MD_GL.gif)
+</h3> -->
 
-Level: Beginner
+Greetings my fellow user!
+
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/levonychus" alt="profile views"> •  
