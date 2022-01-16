@@ -1,6 +1,6 @@
-[![6986607238Leventis](https://github.com/GLeVeDiS/GLeVeDiS/blob/main/README_MD_GL.gif)](https://github.com/GLeVeDiS?tab=repositories)
+[![6986607238Leventis](https://github.com/GLeVeDiS/GLeVeDiS/blob/main/Versionnew.gif)](https://github.com/GLeVeDiS?tab=repositories)
 
-Greetings my fellow user!
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Greetings my fellow user!
 
 
 
